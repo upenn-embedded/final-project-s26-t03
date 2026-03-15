@@ -12,7 +12,7 @@
 | Brandon Parkansky | bpar@seas.upenn.edu     |
 | Panos Dimtsoudis  | panosdim@seas.upenn.edu |
 
-**GitHub Repository URL:**
+**GitHub Repository URL:  https://github.com/upenn-embedded/final-project-s26-t03.git**
 
 **GitHub Pages Website URL:** [for final submission]*
 
