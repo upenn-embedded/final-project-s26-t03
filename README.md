@@ -20,10 +20,11 @@
 
 ### 1. Abstract
 
-Guitar Hero Guitar Refashioned into a Synth, 4 buttons that correspond to notes. Pressing 2 notes at once will play a different note
+Our project repurposes an old toy guitar controller into an embedded music-learning device. The controller’s buttons will be programmable and mapped to individual notes or chords, while the strum bar will trigger sound generation. The sound will be produced by a synthesizer that we will design and build, and features like a mute button, whammy stick, and small display will make the device more expressive and customizable.
 
 ### 2. Motivation
 
+Our motivation for choosing this project is that it combines hardware reuse with a meaningful educational application. Rather than leaving an obsolete gaming peripheral unused, we saw an opportunity to redesign it into a low-cost and engaging platform for teaching fundamental music concepts such as notes, chords, and pitch variation. The main problem we are trying to solve is that beginner music tools are often either too limited, too expensive, or not very interactive. By reusing an existing guitar controller and pairing it with a custom-built synthesizer, we can create a more hands-on and accessible way for users to learn basic musical ideas. This project is interesting because it combines embedded systems, digital sound generation, and interface design, while also showing how outdated electronics can be transformed into practical and creative learning tools.
 
 ### 3. System Block Diagram
 
