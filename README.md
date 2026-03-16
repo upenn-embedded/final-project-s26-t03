@@ -96,12 +96,12 @@ We will first demonstrate the functionality of the joystick selector and display
 
 ### 9. Sprint Planning
 
-| Milestone  | Functionality Achieved | Distribution of Work |
-| ---------- | ---------------------- | -------------------- |
-| Sprint #1  |                        |                      |
-| Sprint #2  |                        |                      |
-| MVP Demo   |                        |                      |
-| Final Demo |                        |                      |
+| Milestone  | Functionality Achieved           | Distribution of Work                    |
+| ---------- | -------------------------------- | --------------------------------------- |
+| Sprint #1  | Get Guitar and MCU communicating | We'll figure it out - but work together |
+| Sprint #2  | Get MCU and Synthesizer Working  | ~~                                      |
+| MVP Demo   | Make Synth and Speaker work      | ~~                                      |
+| Final Demo | Have the whole product ready     | ~~                                      |
 
 **This is the end of the Project Proposal section. The remaining sections will be filled out based on the milestone schedule.**
 
