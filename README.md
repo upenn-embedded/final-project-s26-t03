@@ -92,6 +92,8 @@ https://docs.google.com/spreadsheets/d/1yVx339OijMxmClf8FyQ_4eZAxMqQx_l-zpqn3cil
 
 ### 8. Final Demo Goals
 
+We will first demonstrate the functionality of the joystick selector and display by setting the buttons to specific chords. We will then play a song and showcase our synthesizer pitch bending with the whammy stick.
+
 ### 9. Sprint Planning
 
 | Milestone  | Functionality Achieved | Distribution of Work |
